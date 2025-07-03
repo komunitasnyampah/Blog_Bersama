@@ -1,1 +1,8 @@
-<img src="https://ipfs.io/ipfs/bafybeiazgojdslj6gabeljszahwddnqpaz7ugvfn4egwjucoh6vgdkadoy" alt="Gambar IPFS" />
+import Image from 'next/image';
+
+<Image
+  src="https://ipfs.io/ipfs/bafybeiazgojdslj6gabeljszahwddnqpaz7ugvfn4egwjucoh6vgdkadoy"
+  alt="Gambar IPFS"
+  width={400}
+  height={300}
+/>
