@@ -12,7 +12,7 @@ export default function Navbar() {
      width={400}
      height={300}
       />" 
-       alt="Logo" style={{ height: 40, verticalAlign: 'middle' }} /> Komunitas
+       alt="Logo" style={{ height: 40, verticalAlign: 'middle' }} // Komunitas
       </div>
       <div>
         <Link href="/">Home</Link> | <Link href="/portfolio">Portofolio</Link>
