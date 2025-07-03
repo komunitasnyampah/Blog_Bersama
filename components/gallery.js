@@ -3,7 +3,7 @@ import { getIpfsUrl } from '../utils/ipfs';
 // Dummy images, replace with your own or IPFS hashes
 const images = [
   { src: '/logo.png', alt: 'Logo Lokal' },
-  { src: getIpfsUrl('QmTzQ1NjV...'), alt: 'Contoh dari IPFS' }
+  { src: getIpfsUrl('https://ipfs.io/ipfs/bafybeiazgojdslj6gabeljszahwddnqpaz7ugvfn4egwjucoh6vgdkadoy'), alt: 'Contoh dari IPFS' }
 ];
 
 export default function Gallery() {
