@@ -1,7 +1,7 @@
 import Image from 'next/image';
 
 <Image
-  src="https://ipfs.io/ipfs/bafkreiddlgz4dvmiq6two54nzm6copqmmaxltujvje4vbjmn35sasrziqq"
+  src="http://ipfs.io/ipfs/QmfR65e5Y2fgDWduwMhSX1GrT3gYweXT9dsb6Qonh5VMNi/0.jpg"
   alt="Gambar IPFS"
   width={400}
   height={300}
